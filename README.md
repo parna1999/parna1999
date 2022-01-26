@@ -20,6 +20,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </br>
+
+
 ![Profile views](https://gpvc.arturio.dev/parna1999)
 
 ### Stats
@@ -27,6 +29,6 @@
 ![Parna's GitHub stats](https://github-readme-stats.vercel.app/api?username=parna1999&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parna1999&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/parna1999)
+
  
 
